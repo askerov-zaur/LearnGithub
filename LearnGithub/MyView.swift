@@ -12,6 +12,9 @@ class MyView: UIView {
         let v = UILabel()
         v.font = .systemFont(ofSize: 16, weight: .regular)
         v.translatesAutoresizingMaskIntoConstraints = false
-        return v
+        
+        
+        
+        return v        
     }()
 }
